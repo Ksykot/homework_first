@@ -1,5 +1,5 @@
-/x64\Debug
-*.filters
-*.user
+/x64/Debug
+*.vcxproj.filters
+*.vcxproj.user
 /FileContentIndex
-/v17
+/.vs/homework1 
