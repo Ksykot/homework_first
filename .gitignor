@@ -1,5 +1,6 @@
-/x64/Debug
-*.vcxproj.filters
-*.vcxproj.user
-/FileContentIndex
-/.vs/homework1 
+homework1/.filters
+homework1/.user
+homework1/FileContentIndex
+homework1/v17
+Debug/.exe 
+Debug/.pdb 
